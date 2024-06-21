@@ -123,8 +123,7 @@ spring.cloud.stream.kafka.binder.zkNodes = localhost
 spring.http.multipart.enabled = true
 spring.http.multipart.max-file-size = 50MB
 spring.http.multipart.max-request-size = 51MB
-spring.redis.host = 192.168.101.156
-spring.redis.password = R#==3Z-{)7i!s9C3
+spring.redis.host = localhost
 spring.redis.pool.max-active = 2000
 spring.redis.pool.max-idle = 100
 spring.redis.pool.max-wait = -1
